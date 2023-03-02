@@ -1,4 +1,4 @@
-import Pages.MainPage;
+import pages.MainPage;
 import extensions.WebDriverFactory;
 import org.hamcrest.MatcherAssert;
 import org.junit.After;

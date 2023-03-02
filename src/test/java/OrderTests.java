@@ -1,5 +1,5 @@
-import Pages.MainPage;
-import Pages.OrderPage;
+import pages.MainPage;
+import pages.OrderPage;
 import extensions.WebDriverFactory;
 import org.junit.After;
 import org.junit.Before;
